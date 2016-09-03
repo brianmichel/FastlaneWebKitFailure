@@ -1,0 +1,7 @@
+app_identifier "me.bsm.ios.CocoaPodsWebKitFailure" # The bundle identifier of your app
+apple_id "brian.michel@gmail.com" # Your Apple email address
+
+team_id "team_id_here"  # Developer Portal Team ID
+
+# you can even provide different app identifiers, Apple IDs and team names per lane:
+# More information: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Appfile.md
