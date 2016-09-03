@@ -1,5 +1,5 @@
-# CocoaPodsWebKitFailure
-A sample projet using Fastlane to demonstrate the toolchain selection failure bug as reported [here](https://github.com/fastlane/fastlane/issues/5998).
+# FastlaneWebKitFailure
+A sample project using Fastlane to demonstrate the toolchain selection failure bug as reported [here](https://github.com/fastlane/fastlane/issues/5998).
 
 # How To Test
 1. Run `bundle install`
